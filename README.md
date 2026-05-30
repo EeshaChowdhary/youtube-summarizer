@@ -46,7 +46,9 @@ GROQ_API_KEY=your_groq_api_key_here
 ```
 
 ## 📸 Demo
-![App Screenshot](screenshot.png)
+![App Screenshot](images/screenshot1.png)
+![App Screenshot](images/screenshot2.png)
+![App Screenshot](images/screenshot3.png)
 
 ## 🔑 Getting API Key
 - Go to [console.groq.com](https://console.groq.com)
