@@ -54,5 +54,3 @@ GROQ_API_KEY=your_groq_api_key_here
 - Go to [console.groq.com](https://console.groq.com)
 - Sign up for free
 - Create an API key — no credit card needed
-
-## 📁 Project Structure
